@@ -1,5 +1,32 @@
 [
   {
+    "exercise_name": "clone-repo",
+    "started_at": 1787484232.317966,
+    "completed_at": 1787484236.636713,
+    "comments": [
+      "Great work creating a clone of a fork from Github!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "fetch-and-pull",
+    "started_at": 1787486403.932572,
+    "completed_at": 1787486405.839653,
+    "comments": [
+      "Great work fetching and pulling different upstreams!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "fork-repo",
+    "started_at": 1787468371.668482,
+    "completed_at": 1787468374.751618,
+    "comments": [
+      "Great work creating a fork with Github!"
+    ],
+    "status": "Completed"
+  },
+  {
     "exercise_name": "grocery-shopping",
     "started_at": 1787115848.225128,
     "completed_at": 1787115850.033863,
@@ -9,10 +36,46 @@
     "status": "Completed"
   },
   {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1787467320.55702,
+    "completed_at": 1787467325.102827,
+    "comments": [
+      "Great work using .gitignore!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "link-me",
+    "started_at": 1787460583.762102,
+    "completed_at": 1787460585.535826,
+    "comments": [
+      "Great work with using git remote to add an upstream remote!"
+    ],
+    "status": "Completed"
+  },
+  {
     "exercise_name": "log-and-order",
     "started_at": 1787121956.732909,
     "completed_at": 1787121958.570854,
     "comments": [],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "push-over",
+    "started_at": 1787465519.990717,
+    "completed_at": 1787465522.328142,
+    "comments": [
+      "Great work pushing changes to the remote!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "remote-control",
+    "started_at": 1787458722.305831,
+    "completed_at": 1787458793.741139,
+    "comments": [
+      "Great work setting up a public remote repository!"
+    ],
     "status": "Completed"
   },
   {
@@ -61,65 +124,11 @@
     "status": "Completed"
   },
   {
-    "exercise_name": "remote-control",
-    "started_at": 1787458722.305831,
-    "completed_at": 1787458793.741139,
+    "exercise_name": "view-commits",
+    "started_at": 1787540753.577618,
+    "completed_at": 1787540754.933885,
     "comments": [
-      "Great work setting up a public remote repository!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "link-me",
-    "started_at": 1787460583.762102,
-    "completed_at": 1787460585.535826,
-    "comments": [
-      "Great work with using git remote to add an upstream remote!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "push-over",
-    "started_at": 1787465519.990717,
-    "completed_at": 1787465522.328142,
-    "comments": [
-      "Great work pushing changes to the remote!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "ignoring-somethings",
-    "started_at": 1787467320.55702,
-    "completed_at": 1787467325.102827,
-    "comments": [
-      "Great work using .gitignore!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "fork-repo",
-    "started_at": 1787468371.668482,
-    "completed_at": 1787468374.751618,
-    "comments": [
-      "Great work creating a fork with Github!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "clone-repo",
-    "started_at": 1787484232.317966,
-    "completed_at": 1787484236.636713,
-    "comments": [
-      "Great work creating a clone of a fork from Github!"
-    ],
-    "status": "Completed"
-  },
-  {
-    "exercise_name": "fetch-and-pull",
-    "started_at": 1787486403.932572,
-    "completed_at": 1787486405.839653,
-    "comments": [
-      "Great work fetching and pulling different upstreams!"
+      "Great work in viewing and understanding the diff of a specific commit!"
     ],
     "status": "Completed"
   }
